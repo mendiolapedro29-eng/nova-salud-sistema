@@ -1,0 +1,45 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #1e3a8a; /* Azul oscuro */
+  text-align: center;
+}
+
+h2 {
+  color: #333;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 10px;
+}
+
+.tabla-productos {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  background-color: white;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.tabla-productos th, .tabla-productos td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: left;
+}
+
+.tabla-productos th {
+  background-color: #f8fafc;
+  color: #1e3a8a;
+}
+
+.alerta {
+  color: #dc2626; /* Rojo */
+  font-weight: bold;
+}
+
+.normal {
+  color: #16a34a; /* Verde */
+}
