@@ -32,7 +32,7 @@ export default function Login() {
             <div className="bg-white p-3 rounded-2xl shadow-lg mb-4">
               <Activity size={32} className="text-emerald-600" />
             </div>
-            <h2 className="text-3xl font-extrabold text-white tracking-tight">Nova Salud</h2>
+            <h2 className="text-3xl font-extrabold text-white tracking-tight">PeruFarma</h2>
             <p className="text-emerald-100 text-sm mt-2 font-medium">Sistema de Inventario y Ventas</p>
           </div>
         </div>
@@ -85,7 +85,7 @@ export default function Login() {
           {/* Footer de la tarjeta */}
           <div className="mt-8 text-center border-t border-slate-100 pt-6">
             <p className="text-xs text-slate-400 font-medium">
-              &copy; {new Date().getFullYear()} Botica Nova Salud. <br/> Todos los derechos reservados.
+              &copy; {new Date().getFullYear()} Botica PeruFarma. <br/> Todos los derechos reservados.
             </p>
           </div>
         </div>

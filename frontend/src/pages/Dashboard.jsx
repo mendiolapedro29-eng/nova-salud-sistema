@@ -44,7 +44,7 @@ export default function Dashboard() {
             <div className="bg-emerald-600 p-1.5 rounded-lg">
               <Hexagon size={20} className="text-white fill-white" />
             </div>
-            <h1 className="text-xl font-bold text-slate-900 tracking-tight">Nova Salud</h1>
+            <h1 className="text-xl font-bold text-slate-900 tracking-tight">PeruFarma</h1>
             <span className="hidden sm:inline-block ml-2 px-2 py-0.5 text-xs font-semibold text-emerald-700 bg-emerald-50 rounded-full border border-emerald-100">
               Sistema de Ventas
             </span>
